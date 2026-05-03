@@ -1,0 +1,22 @@
+module BlocksKit {
+    header "BKDefines.h"
+    header "Core/BKMacros.h"
+    header "Core/NSArray+BlocksKit.h"
+    header "Core/NSDictionary+BlocksKit.h"
+    header "Core/NSIndexSet+BlocksKit.h"
+    header "Core/NSInvocation+BlocksKit.h"
+    header "Core/NSMapTable+BlocksKit.h"
+    header "Core/NSMutableArray+BlocksKit.h"
+    header "Core/NSMutableDictionary+BlocksKit.h"
+    header "Core/NSMutableIndexSet+BlocksKit.h"
+    header "Core/NSMutableOrderedSet+BlocksKit.h"
+    header "Core/NSMutableSet+BlocksKit.h"
+    header "Core/NSNumber+BlocksKit.h"
+    header "Core/NSObject+BKAssociatedObjects.h"
+    header "Core/NSObject+BKBlockExecution.h"
+    header "Core/NSObject+BKBlockObservation.h"
+    header "Core/NSOrderedSet+BlocksKit.h"
+    header "Core/NSSet+BlocksKit.h"
+    header "Core/NSTimer+BlocksKit.h"
+    export *
+}
